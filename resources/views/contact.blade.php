@@ -1,9 +1,8 @@
-<x-layout><br><br><br><br>
-    <h1>Contact</h1>
+<x-layout>
+    <x-navbar />
 
-    <nav>
-        <a href="/">Home</a>
-        <a href="/about">About</a>
-        <a href="/contact">Contact</a>
-    </nav>
+    <div class="container">
+        <h1>Contact</h1>
+        <p>It Workss!!</p>
+    </div>
 </x-layout>
