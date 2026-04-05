@@ -2,7 +2,7 @@
     <x-navbar />
 
     <div class="container">
-        <h1>Homepage</h1>
-        <p>Welcomeee to my project larvel!!</p>
+        <h1>Blog</h1>
+        <p>It Workss!!</p>
     </div>
 </x-layout>
